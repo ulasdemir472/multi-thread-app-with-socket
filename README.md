@@ -7,7 +7,7 @@ Bu proje, Flask kullanarak geliştirdiğimiz basit bir web istemci ve sunucu uyg
 Projeyi yerel makinenize klonlayarak başlayın:
 
 ```bash
-git clone https://github.com/marksmandantus/ag_programlama.git
+git clone https://github.com/ulasdemir472/multi-thread-app-with-socket.git
 cd proje
 ```
 
